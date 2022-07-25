@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'zee5-ci-b2b'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7D416C9A9D2A45E9BA26218EA526AD2B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5F71B1D5E66D4CFDA71638579F866AAE }}
